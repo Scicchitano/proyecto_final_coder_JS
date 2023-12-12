@@ -36,3 +36,5 @@
 # Posible Mejora
 * La función agregar_consulta_LS podría recibir directamente un objeto de consulta en lugar de los parámetros individuales de monto, interés y plazo.
 # Mi gif
+
+![](multimedia/Soluciones-financieras-S.A-Google-Chrome-2023-12-11-13-00-38.gif)
